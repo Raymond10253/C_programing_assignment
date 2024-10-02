@@ -1,4 +1,4 @@
-//program to calculate 
+//program to calculate the fine for overdue library books
 /*
 Author: RAYMOND WAFULA
 Reg no.: CT101/G/21897/24
