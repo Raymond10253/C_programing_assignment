@@ -1,4 +1,4 @@
-//program to calculate simple interest
+//program to calculate loan 
 /*
 Author: RAYMOND WAFULA
 Reg no.: CT101/G/21897/24
